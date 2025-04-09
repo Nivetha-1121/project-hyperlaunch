@@ -1,11 +1,11 @@
 # Project - Predicting Heart Disease 
 
 ## About the Dataset:
-   Name of the dataset - health_activity_data.csv
-   Website : Downloaded form Kaggle
-   Description:
+   1. Name of the dataset - health_activity_data.csv
+   2. Website : Downloaded form Kaggle
+   3. Description:
     By using the data like height, weight, BMI, sleeping hours, excercise hours, heart rate, blood pressure we can analyse the heart disease of the person.
-   Columns :  12 columns
+   4. Columns :  12 columns
 
 ## Objective of the Project:
     The objective of this project is to develop a machine learning model using a 
